@@ -1,0 +1,21 @@
+{
+  "name": "Finova",
+  "short_name": "Finova",
+  "description": "Modern digital banking for everyone.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d2235",
+  "icons": [
+    {
+      "src": "/icons/finova-logo",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icons/finova-logo",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
